@@ -69,7 +69,7 @@ app.get('/:encoded_id', function(req, res){
             // found an entry in the DB, redirect the user to their destination
             res.redirect(doc.long_url);
         } else {
-            // nothing found, take 'em home
+            // nothing found, take 'em home'''
             res.redirect(config.webhost);
         }
     });
