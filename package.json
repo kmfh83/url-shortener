@@ -15,5 +15,18 @@
     "mongoose": "^4.11.1",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmfh83/url-shortener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmfh83/url-shortener/issues"
+  },
+  "homepage": "https://github.com/kmfh83/url-shortener#readme",
+  "description": ""
 }
